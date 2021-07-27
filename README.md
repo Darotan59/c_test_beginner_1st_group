@@ -1,1 +1,1 @@
-# c_test_beginner_1st_group
+# c_test_beginner_2st_group
